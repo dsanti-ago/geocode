@@ -1,0 +1,22 @@
+{
+  "name": "geocoding",
+  "label": "Simple",
+  "type": "widget",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "version": "1.13.0",
+  "exbVersion": "1.13.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "devsubmmit demo",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}
